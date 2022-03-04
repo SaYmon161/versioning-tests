@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.2](https://github.com/SaYmon161/versioning-tests/compare/v1.2.1...v1.2.2) (2022-03-04)
+
+
+### Bug Fixes
+
+* bugfix ([a69e9b7](https://github.com/SaYmon161/versioning-tests/commits/a69e9b7ff43a5f1c78fb8bb88f9527191b8e3bc5))
+
 ### [1.2.1](https://github.com/SaYmon161/versioning-tests/compare/v1.2.0...v1.2.1) (2022-03-04)
 
 ## [1.2.0](https://github.com/SaYmon161/versioning-tests/compare/v1.1.0...v1.2.0) (2022-03-04)
