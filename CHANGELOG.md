@@ -4,8 +4,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [1.0.0](https://github.com/SaYmon161/versioning-tests/compare/v0.1.2...v1.0.0) (2022-03-04)
 
-### [0.1.2](///compare/v0.1.1...v0.1.2) (2022-03-04)
+### [0.1.2](https://github.com/SaYmon161/versioning-tests/compare/v0.1.1...v0.1.2) (2022-03-04)
 
-### [0.1.1](///compare/v0.1.0...v0.1.1) (2022-03-04)
+### [0.1.1](https://github.com/SaYmon161/versioning-tests/compare/v0.1.0...v0.1.1) (2022-03-04)
 
 ## 0.1.0 (2022-03-03)
