@@ -1,0 +1,4 @@
+{
+    "commitUrlFormat": "https://github.com/SaYmon161/versioning-tests/commits/{{hash}}",
+    "compareUrlFormat": "https://github.com/SaYmon161/versioning-tests/compare/{{previousTag}}...{{currentTag}}"
+}
