@@ -1,4 +1,14 @@
 {
     "commitUrlFormat": "https://github.com/SaYmon161/versioning-tests/commits/{{hash}}",
-    "compareUrlFormat": "https://github.com/SaYmon161/versioning-tests/compare/{{previousTag}}...{{currentTag}}"
+    "compareUrlFormat": "https://github.com/SaYmon161/versioning-tests/compare/{{previousTag}}...{{currentTag}}",
+    "types": [
+        {"type": "feature", "section": "Features"},
+        {"type": "fix", "section": "Bug Fixes"},
+        {"type": "chore", "hidden": true},
+        {"type": "docs", "hidden": true},
+        {"type": "style", "hidden": true},
+        {"type": "refactor", "hidden": true},
+        {"type": "perf", "hidden": true},
+        {"type": "test", "hidden": true}
+    ]
 }
